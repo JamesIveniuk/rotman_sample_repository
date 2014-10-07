@@ -230,3 +230,4 @@
 "XO-5 b","1.077","1.03","4.1877537",
 Here is Venus.It's pretty hot.
 Pluto is not venus. Pluto is totally a planet.
+Jupiter is bigger than Venus.
